@@ -1,5 +1,5 @@
 
-![Kyuubi Github's Stats] (https://github-readme-stats.vercel.app/api?username=Kyuubi0323&show_icons=true&theme=vue-dark)
+![Kyuubi Github's Stats] (https://github-readme-stats.vercel.app/api?username=kyuubi0323&show_icons=true&theme=vue-dark)
 
 - 👋I'm @Kyuubi
 - 👀 I’m interested in ...
