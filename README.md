@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 <a href="https://github.com/kyuubi0323/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kyuubi0323" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kyuubi0323&hide_title=true" />
 </a>
 <a href="https://github.com/kyuubi0323/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyuubi0323&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyuubi0323&layout=compact&langs_count=8&card_width=320&hide_title=true" />
 </a>
 
 <!---
