@@ -6,7 +6,7 @@
 </a>
 
 - 👋 Hi, I’m @kyuubi...
-- 👀 I’m Embedded&IoT Engineer
+- 👀 I’m an Embedded&IoT Engineer
 - 🌱 I’m currently learning Embedded-Linux
 
 <!---
