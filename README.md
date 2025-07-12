@@ -1,8 +1,11 @@
 # Hi there, I'm Khoi 👋
 ## About Me
 
-- 👀 I’m an Embedded&IoT Engineer
-- 🌱 I’m currently learning Embedded-Linux
+- 👋 Hi, Khoi there!
+- 👀 I’m passionate about Embedded Systems, IoT, and practical electronics.
+- 🌱 Currently deepening my knowledge of Embedded Linux and real-time device communication.
+- 🤖 Working on optimizing AI application pipelines and Instruction Set Architectures (ISA) for efficient performance on resource-constrained devices.
+- 💡 Always eager to learn new things and work on innovative embedded solutions.
 
 ## My GitHub Stats
 
